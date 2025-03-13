@@ -1,12 +1,32 @@
-# React + Vite
+# Audio Visualization Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for visualizing and analyzing audio files. This project demonstrates advanced frontend capabilities with React and audio processing.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Audio Visualization**: Interactive waveform display of audio files
+- **Audio Analysis**: Extract metrics like duration, BPM, sample rate, and amplitude
+- **Audio File Management**: Upload, delete, and organize your audio files
+- **Responsive Design**: Optimized for both desktop and mobile devices
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: Frontend UI library
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **WaveSurfer.js**: Audio visualization library
+- **Tone.js**: Web Audio framework for audio analysis
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14+)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/donxito/audio-viz.git
+   cd audio-client
+   ```

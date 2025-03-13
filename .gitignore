@@ -23,5 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
+
+# Environment variables
 .env
 
+# Configuration files
+config.js
+config.json

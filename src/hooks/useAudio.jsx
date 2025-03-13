@@ -6,19 +6,19 @@ const demoAudios = [
   {
     id: "1",
     name: "Guitar Acoustic",
-    url: "/assets/sample1.mp3",
+    url: "./demos/sample1.mp3",
     createdAt: new Date().toISOString(),
   },
   {
     id: "2",
     name: "Electronic Beat",
-    url: "/assets/sample2.mp3",
+    url: "./demos/sample2.mp3",
     createdAt: new Date(Date.now() - 86400000).toISOString(), // yesterday
   },
   {
     id: "3",
     name: "Ambient Sounds",
-    url: "/assets/sample3.mp3",
+    url: "./demos/sample3.mp3",
     createdAt: new Date(Date.now() - 172800000).toISOString(), // 2 days ago
   },
 ];

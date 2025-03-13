@@ -2,6 +2,10 @@
 
 A modern web application for visualizing and analyzing audio files. This project demonstrates advanced frontend capabilities with React and audio processing.
 
+
+<img width="2056" alt="Screenshot 2025-03-13 at 17 16 58" src="https://github.com/user-attachments/assets/1c2dfc32-0add-4026-b26e-2376a2848144" />
+
+
 ## Features
 
 - **Audio Visualization**: Interactive waveform display of audio files
